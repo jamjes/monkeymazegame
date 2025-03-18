@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"E:/Github Projects/monkeymazegame/GDGGameJam4/Content/Pause.uasset",
+				"E:/Github Projects/monkeymazegame/GDGGameJam4/Content/Confirm.uasset",
+				"E:/Github Projects/monkeymazegame/GDGGameJam4/Content/MazeSweaperMap1.umap",
 				"E:/Unreal Projects/GDGGameJam4/Content/MazeSweaperMap1.umap",
 				"E:/Unreal Projects/GDGGameJam4/Content/M_Floor.uasset",
 				"E:/Unreal Projects/GDGGameJam4/Content/MainMenu.uasset",
